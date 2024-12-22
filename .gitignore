@@ -1,0 +1,5 @@
+/venv/
+/.ipynb_checkpoints/
+/cleaned_transactions_final.csv
+/cc_sample_transaction.json
+/hadoop/
